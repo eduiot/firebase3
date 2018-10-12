@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "691975050448",
+    "firebase_url": "https://fir-637cd.firebaseio.com",
+    "project_id": "fir-637cd",
+    "storage_bucket": "fir-637cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691975050448:android:6aec674b4c4158d8",
+        "android_client_info": {
+          "package_name": "com.we2app.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691975050448-l1p95fr9rap2hrlugs1imcu5t0gotk2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZPFCmGebST3m9vieJTztPZergv1yOhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
